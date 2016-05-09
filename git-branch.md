@@ -14,4 +14,6 @@ $ git push origin :<branch>          # Git versions older than 1.7.0
 ````
 3.Update branch upstream
 Ref: http://stackoverflow.com/questions/4878249/how-do-i-change-the-remote-a-git-branch-is-tracking
-git branch branch_name --set-upstream-to your_new_remote/branch_name
+````
+$ git branch branch_name --set-upstream-to your_new_remote/branch_name
+````
